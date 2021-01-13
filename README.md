@@ -6,4 +6,4 @@ For every correct guess you make, the position of the letter in the word is reve
 For every wrong guess you make, the hangman picture draws itself and once the picture is completed you lose.
 # Prerequisites
 Python
-# Note: Challange the hard level only if you are confident 
+# Note: Challange the hard level only if you are confident, if not, you might sacrifise your sleep.
